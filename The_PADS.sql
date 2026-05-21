@@ -6,6 +6,7 @@
 --   - Prevented unintended whitespace issues by replacing comma-separation with explicit CONCAT().
 --   - Handled proper data aggregation with GROUP BY and structured multi-column ORDER BY logic.
 -- =========================================================================
+
 -- Query 1: Format names with their occupation initials
 SELECT concat(name, "(",substr(occupation,1,1),")" )
 FROM occupations 
