@@ -24,6 +24,3 @@ The main goal is to practice database querying and ensure data accuracy.
 * **`Placements.sql`** - Comparing values across related rows using Self JOINs and table aliasing.
 * **`Symmetric_Pairs.sql`** - Identifying mirrored pairs using Self JOIN and `UNION` logic.
 * **`Print_Prime_Numbers.sql`** - Advanced sequence generation and mathematical filtering using Recursive CTE (`WITH RECURSIVE`) and `NOT EXISTS`.
-
----
-* Location: Germany*
